@@ -5,7 +5,8 @@ It's an edited version of [ovpn-admin](https://github.com/flant/ovpn-admin).
 
 ### Features
 - Nginx proxy with authentication to web gui.
-- Now openvpn changes the public IP address.
+- Now OpenVPN changes the public IP address.
+- Some style changes.
 
 ### How to run:
 1. Install [docker](https://www.docker.com/) and [docker-compose](https://docs.docker.com/compose/).
